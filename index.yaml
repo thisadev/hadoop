@@ -1,0 +1,24 @@
+apiVersion: v1
+entries:
+  hadoop:
+  - apiVersion: v1
+    appVersion: 3.3.4
+    created: "2022-11-08T22:10:00.22095+05:30"
+    description: The Apache Hadoop software library is a framework that allows for
+      the distributed processing of large data sets across clusters of computers using
+      simple programming models.
+    digest: fb1818bc34b538bc808d6273d7d3f8bdcbcf633cfa4c4d4f23de71fd492b718c
+    home: https://hadoop.apache.org/
+    icon: http://hadoop.apache.org/images/hadoop-logo.jpg
+    maintainers:
+    - email: thisa08@gmail.com
+      name: boffin
+      url: http://github.com/thisadev
+    name: hadoop
+    sources:
+    - https://github.com/pfisterer/apache-hadoop-helm
+    - https://github.com/apache/hadoop
+    urls:
+    - https://github.com/thisadev/hadoop/hadoop-1.0.1.tgz
+    version: 1.0.1
+generated: "2022-11-08T22:10:00.21929+05:30"
